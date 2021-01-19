@@ -1,2 +1,2 @@
 
-The DateTime module comes preinstalled in the Python programming language so you can easily import it in your program. The playsound library can be easily installed by using a pip command; pip install playsound. I hope you will be able to install it in your systems, now let’s see how to write a program to create an alarm with Python.
+The DateTime module comes preinstalled in the Python programming language so you can easily import it in your program. The playsound library can be easily installed by using a pip command; pip install playsound. I hope you will be able to install it in your systems, now let’s have a look how to write a program to create an alarm with Python in the above python file.
